@@ -1,0 +1,5 @@
+name: "ToDo Bot"
+description: "Creates issues and comments when finding TODO comments"
+runs:
+  using: "node14"
+  main: "action.js"
