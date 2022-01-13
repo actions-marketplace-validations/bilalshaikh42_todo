@@ -1,4 +1,4 @@
-name: "Code TODO Bot"
+name: "Code Todo Bot"
 description: "Creates issues and comments when finding TODO comments"
 runs:
   using: "node14"
